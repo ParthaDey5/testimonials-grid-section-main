@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [https://github.com/ParthaDey5/testimonials-grid-section-main]  
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- Live Site URL: [https://testimonials-grid-section-main-of4e.vercel.app]
 
 ## My process
 
@@ -52,8 +52,8 @@ Users should be able to:
 - [CSS Tricks Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) – Clear explanations of grid behavior.  
 
 ## Author
-- Website – [Partha](https://your-site.com)  
-- Frontend Mentor – [@partha](https://www.frontendmentor.io/profile/partha)  
+- Website – [Partha](https://portfolio-delta-ten-55.vercel.app)  
+- Frontend Mentor – [@partha](https://www.frontendmentor.io/profile/ParthaDey5)  
 
 ---
 
